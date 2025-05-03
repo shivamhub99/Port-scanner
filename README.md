@@ -21,4 +21,4 @@ A lightweight and fast TCP port scanner written in Python. It allows users to sc
 ## 🛠️ Usage
 
 ```bash
-python port_scanner.py
+python Basic_Port_Scanner.py
